@@ -1,0 +1,802 @@
+[
+  {
+    "name": "JACK",
+    "whiteNumbers": [
+      2,
+      18,
+      19,
+      40,
+      55
+    ],
+    "powerballNumber": 19,
+    "matched": [
+      19,
+      18
+    ]
+  },
+  {
+    "name": "STEVE R",
+    "whiteNumbers": [
+      2,
+      6,
+      14,
+      25,
+      26
+    ],
+    "powerballNumber": 13,
+    "matched": [
+      26,
+      6
+    ]
+  },
+  {
+    "name": "CAL S",
+    "whiteNumbers": [
+      22,
+      23,
+      32,
+      39,
+      41
+    ],
+    "powerballNumber": 18,
+    "matched": [
+      39
+    ]
+  },
+  {
+    "name": "BARB S",
+    "whiteNumbers": [
+      4,
+      10,
+      11,
+      22,
+      30
+    ],
+    "powerballNumber": 10,
+    "matched": [
+      30
+    ]
+  },
+  {
+    "name": "MAYOR",
+    "whiteNumbers": [
+      4,
+      14,
+      18,
+      24,
+      26
+    ],
+    "powerballNumber": 23,
+    "matched": [
+      18,
+      26
+    ]
+  },
+  {
+    "name": "BEV S",
+    "whiteNumbers": [
+      9,
+      17,
+      22,
+      49,
+      55
+    ],
+    "powerballNumber": 10,
+    "matched": [
+      9,
+      49,
+      17
+    ]
+  },
+  {
+    "name": "PAT S",
+    "whiteNumbers": [
+      7,
+      11,
+      26,
+      31,
+      63
+    ],
+    "powerballNumber": 13,
+    "matched": [
+      7,
+      26
+    ]
+  },
+  {
+    "name": "ELLIE",
+    "whiteNumbers": [
+      10,
+      11,
+      21,
+      32,
+      47
+    ],
+    "powerballNumber": 18,
+    "matched": []
+  },
+  {
+    "name": "JEN",
+    "whiteNumbers": [
+      7,
+      15,
+      20,
+      30,
+      42
+    ],
+    "powerballNumber": 9,
+    "matched": [
+      42,
+      7,
+      30,
+      9
+    ]
+  },
+  {
+    "name": "TAYLOR",
+    "whiteNumbers": [
+      4,
+      9,
+      32,
+      45,
+      53
+    ],
+    "powerballNumber": 20,
+    "matched": [
+      9,
+      45
+    ]
+  },
+  {
+    "name": "JAXON",
+    "whiteNumbers": [
+      3,
+      10,
+      16,
+      21,
+      44
+    ],
+    "powerballNumber": 15,
+    "matched": [
+      16,
+      44
+    ]
+  },
+  {
+    "name": "BRENDA",
+    "whiteNumbers": [
+      3,
+      13,
+      28,
+      54,
+      58
+    ],
+    "powerballNumber": 20,
+    "matched": [
+      28,
+      54
+    ]
+  },
+  {
+    "name": "SHELBY",
+    "whiteNumbers": [
+      7,
+      11,
+      21,
+      45,
+      62
+    ],
+    "powerballNumber": 6,
+    "matched": [
+      7,
+      45
+    ]
+  },
+  {
+    "name": "RONDA",
+    "whiteNumbers": [
+      6,
+      11,
+      29,
+      32,
+      36
+    ],
+    "powerballNumber": 4,
+    "matched": [
+      36,
+      4,
+      6,
+      29
+    ]
+  },
+  {
+    "name": "TAMMY",
+    "whiteNumbers": [
+      28,
+      34,
+      45,
+      52,
+      60
+    ],
+    "powerballNumber": 17,
+    "matched": [
+      34,
+      60,
+      28,
+      52,
+      45
+    ]
+  },
+  {
+    "name": "JOANN",
+    "whiteNumbers": [
+      22,
+      34,
+      48,
+      56,
+      62
+    ],
+    "powerballNumber": 15,
+    "matched": [
+      48,
+      34,
+      56
+    ]
+  },
+  {
+    "name": "TINTOR",
+    "whiteNumbers": [
+      5,
+      6,
+      12,
+      27,
+      29
+    ],
+    "powerballNumber": 4,
+    "matched": [
+      5,
+      4,
+      6,
+      29
+    ]
+  },
+  {
+    "name": "JAKE",
+    "whiteNumbers": [
+      5,
+      6,
+      12,
+      29,
+      39
+    ],
+    "powerballNumber": 1,
+    "matched": [
+      5,
+      6,
+      39,
+      29
+    ]
+  },
+  {
+    "name": "DEBBIE",
+    "whiteNumbers": [
+      2,
+      7,
+      14,
+      18,
+      37
+    ],
+    "powerballNumber": 3,
+    "matched": [
+      37,
+      7,
+      18
+    ]
+  },
+  {
+    "name": "JIM K",
+    "whiteNumbers": [
+      1,
+      10,
+      14,
+      44,
+      69
+    ],
+    "powerballNumber": 19,
+    "matched": [
+      19,
+      1,
+      44,
+      69
+    ]
+  },
+  {
+    "name": "TERREL",
+    "whiteNumbers": [
+      6,
+      20,
+      27,
+      57,
+      69
+    ],
+    "powerballNumber": 5,
+    "matched": [
+      5,
+      6,
+      69
+    ]
+  },
+  {
+    "name": "SAARI",
+    "whiteNumbers": [
+      1,
+      11,
+      30,
+      42,
+      53
+    ],
+    "powerballNumber": 9,
+    "matched": [
+      42,
+      1,
+      30,
+      9
+    ]
+  },
+  {
+    "name": "ANDY",
+    "whiteNumbers": [
+      12,
+      23,
+      26,
+      31,
+      44
+    ],
+    "powerballNumber": 15,
+    "matched": [
+      26,
+      44
+    ]
+  },
+  {
+    "name": "DAN K",
+    "whiteNumbers": [
+      9,
+      17,
+      18,
+      54,
+      63
+    ],
+    "powerballNumber": 20,
+    "matched": [
+      18,
+      9,
+      17,
+      54
+    ]
+  },
+  {
+    "name": "JURENES",
+    "whiteNumbers": [
+      17,
+      20,
+      32,
+      52,
+      63
+    ],
+    "powerballNumber": 21,
+    "matched": [
+      21,
+      17,
+      52
+    ]
+  },
+  {
+    "name": "ANNA",
+    "whiteNumbers": [
+      6,
+      14,
+      28,
+      37,
+      54
+    ],
+    "powerballNumber": 23,
+    "matched": [
+      37,
+      6,
+      28,
+      54
+    ]
+  },
+  {
+    "name": "RANGER",
+    "whiteNumbers": [
+      3,
+      9,
+      22,
+      27,
+      28
+    ],
+    "powerballNumber": 7,
+    "matched": [
+      9,
+      28
+    ]
+  },
+  {
+    "name": "JK",
+    "whiteNumbers": [
+      9,
+      15,
+      25,
+      27,
+      69
+    ],
+    "powerballNumber": 9,
+    "matched": [
+      9,
+      69
+    ]
+  },
+  {
+    "name": "JAYNE",
+    "whiteNumbers": [
+      1,
+      17,
+      20,
+      27,
+      28
+    ],
+    "powerballNumber": 19,
+    "matched": [
+      19,
+      1,
+      17,
+      28
+    ]
+  },
+  {
+    "name": "G HOAG",
+    "whiteNumbers": [
+      5,
+      12,
+      18,
+      24,
+      28
+    ],
+    "powerballNumber": 7,
+    "matched": [
+      5,
+      18,
+      28
+    ]
+  },
+  {
+    "name": "JERRY W",
+    "whiteNumbers": [
+      10,
+      17,
+      22,
+      54,
+      64
+    ],
+    "powerballNumber": 14,
+    "matched": [
+      64,
+      17,
+      54
+    ]
+  },
+  {
+    "name": "TERRY M",
+    "whiteNumbers": [
+      13,
+      26,
+      39,
+      62,
+      69
+    ],
+    "powerballNumber": 25,
+    "matched": [
+      26,
+      39,
+      69
+    ]
+  },
+  {
+    "name": "BAUMAN",
+    "whiteNumbers": [
+      6,
+      22,
+      39,
+      55,
+      64
+    ],
+    "powerballNumber": 25,
+    "matched": [
+      64,
+      6,
+      39
+    ]
+  },
+  {
+    "name": "JEREMY",
+    "whiteNumbers": [
+      6,
+      21,
+      39,
+      47,
+      63
+    ],
+    "powerballNumber": 18,
+    "matched": [
+      6,
+      39
+    ]
+  },
+  {
+    "name": "PAUL V",
+    "whiteNumbers": [
+      1,
+      13,
+      14,
+      18,
+      29
+    ],
+    "powerballNumber": 9,
+    "matched": [
+      1,
+      18,
+      9,
+      29
+    ]
+  },
+  {
+    "name": "FRANK",
+    "whiteNumbers": [
+      1,
+      11,
+      22,
+      33,
+      61
+    ],
+    "powerballNumber": 4,
+    "matched": [
+      1,
+      4,
+      33,
+      61
+    ]
+  },
+  {
+    "name": "JOE D",
+    "whiteNumbers": [
+      9,
+      16,
+      26,
+      29,
+      41
+    ],
+    "powerballNumber": 23,
+    "matched": [
+      16,
+      26,
+      9,
+      29
+    ]
+  },
+  {
+    "name": "GREG H",
+    "whiteNumbers": [
+      7,
+      27,
+      51,
+      62,
+      67
+    ],
+    "powerballNumber": 20,
+    "matched": [
+      7,
+      67,
+      51
+    ]
+  },
+  {
+    "name": "LFOTM-1",
+    "whiteNumbers": [
+      17,
+      18,
+      27,
+      33,
+      38
+    ],
+    "powerballNumber": 2,
+    "matched": [
+      18,
+      33,
+      17,
+      38
+    ]
+  },
+  {
+    "name": "LFOTM2",
+    "whiteNumbers": [
+      6,
+      13,
+      31,
+      44,
+      69
+    ],
+    "powerballNumber": 12,
+    "matched": [
+      6,
+      44,
+      69,
+      12
+    ]
+  },
+  {
+    "name": "DAVE B",
+    "whiteNumbers": [
+      4,
+      7,
+      9,
+      14,
+      18
+    ],
+    "powerballNumber": 5,
+    "matched": [
+      7,
+      5,
+      18,
+      9
+    ]
+  },
+  {
+    "name": "WAYNE",
+    "whiteNumbers": [
+      8,
+      20,
+      28,
+      57,
+      58
+    ],
+    "powerballNumber": 20,
+    "matched": [
+      28,
+      8
+    ]
+  },
+  {
+    "name": "WOODY",
+    "whiteNumbers": [
+      5,
+      6,
+      8,
+      11,
+      19
+    ],
+    "powerballNumber": 7,
+    "matched": [
+      19,
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "name": "KLARICH",
+    "whiteNumbers": [
+      8,
+      15,
+      27,
+      39,
+      46
+    ],
+    "powerballNumber": 21,
+    "matched": [
+      39,
+      21,
+      8
+    ]
+  },
+  {
+    "name": "KELLY",
+    "whiteNumbers": [
+      5,
+      12,
+      26,
+      28,
+      34
+    ],
+    "powerballNumber": 10,
+    "matched": [
+      5,
+      26,
+      34,
+      28
+    ]
+  },
+  {
+    "name": "JESSE",
+    "whiteNumbers": [
+      4,
+      5,
+      13,
+      28,
+      44
+    ],
+    "powerballNumber": 21,
+    "matched": [
+      5,
+      21,
+      28,
+      44
+    ]
+  },
+  {
+    "name": "JOANNE",
+    "whiteNumbers": [
+      5,
+      13,
+      27,
+      34,
+      57
+    ],
+    "powerballNumber": 17,
+    "matched": [
+      5,
+      34
+    ]
+  },
+  {
+    "name": "COFFEE",
+    "whiteNumbers": [
+      8,
+      15,
+      17,
+      22,
+      27
+    ],
+    "powerballNumber": 21,
+    "matched": [
+      21,
+      17,
+      8
+    ]
+  },
+  {
+    "name": "CS/BS",
+    "whiteNumbers": [
+      6,
+      18,
+      23,
+      37,
+      40
+    ],
+    "powerballNumber": 18,
+    "matched": [
+      37,
+      18,
+      6
+    ]
+  },
+  {
+    "name": "CHARLIE",
+    "whiteNumbers": [
+      17,
+      18,
+      30,
+      44,
+      56
+    ],
+    "powerballNumber": 13,
+    "matched": [
+      18,
+      30,
+      17,
+      56,
+      44
+    ]
+  }
+]
